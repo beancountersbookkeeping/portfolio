@@ -5,7 +5,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Kaylin Leland # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -18,16 +18,16 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: kay@thebeancountersbookkeeping.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: thebeancountersbookkeeping # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: https://www.linkedin.com/in/kaylin-leland-65340862
   pinterest:
   reddit:
   soundcloud:
