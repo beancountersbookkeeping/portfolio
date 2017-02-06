@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocjams
+title: Cooljams
 thumbnail-path: "img/blocjams.png"
-short-description: BlocJams is a site to browse albums and listen to songs.
+short-description: CoolJams is a site to browse albums and listen to songs.
 
 ---
 
@@ -11,7 +11,7 @@ short-description: BlocJams is a site to browse albums and listen to songs.
 
 ## Explanation
 
-Bloc Jams was created as a Spotify style site. It is used to show case artist's albums and to provide the ability to listen to songs. 
+CoolJams was created as a Spotify style site. It is used to show case artist's albums and to provide the ability to listen to songs. 
 
 ## Problem
 
