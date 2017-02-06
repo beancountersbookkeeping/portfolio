@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami/" # the subpath of your site, e.g. /blog/ (optional)
-url: "https://beancountersbookkeeping.github.io" 
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "https://kaylinleland.com" 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
