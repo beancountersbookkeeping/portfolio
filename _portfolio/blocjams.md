@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BlocJams
+title: Blocjams
 thumbnail-path: "img/blocjams.png"
-short-description: BlocJams is a site to browse albums and listen to songs. 
+short-description: BlocJams is a site to browse albums and listen to songs.
 
 ---
 
