@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://kaylinleland.com" 
+url: "http://kaylinleland.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -11,10 +11,9 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Unique and Hard Working Developer</h1>
-     <p>I specialize in JavaScript in RUby to create amazing programs.</p>
+     <p>I specialize in Ruby to create amazing applications.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
