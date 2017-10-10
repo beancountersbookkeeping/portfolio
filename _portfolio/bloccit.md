@@ -28,7 +28,7 @@ The first objective was to create a post. Using the MVC (Model, View, Controller
 
 An additional data object was added, Topics. Topics allowed for the reconfiguration of the posts to more easily find and or interact with posts that the user finds interesting. Each Topic having multiple posts. At this point the view was changed to view all of the topics, when a topic is clicked, all of the posts appear. Refactoring of the views was also necessary and partials added to keep the coding of this application efficient.
 
-By using the Ruby Gem 'BCrypt', users were able to sign up and sign into and out of the application. At this point each user has their own posts and comments.
+By using the Ruby Gem 'BCrypt', users were able to sign up and sign into and out of the application. At this point each user has their own posts and comments. 
 
 Users were able to have different permissions in the application. Using :enum 3 roles were created. 1) Admin - Admin can create, update or delete any topic or post. 2) Member  - Members can create, update or delete their own posts. 3) Guest - Guests can only read posts in the application.
 
