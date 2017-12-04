@@ -7,7 +7,7 @@ short-description: Bloc-It is an app to post, vote, share, and comment.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }})
 
 ## Explanation
 
