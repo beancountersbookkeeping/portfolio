@@ -7,7 +7,7 @@ short-description: Bloc-Chat is a user messaging system.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }})
 
 ## Explanation
 
