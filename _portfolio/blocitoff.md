@@ -7,7 +7,7 @@ short-description: Bloc-itoff is an app to create to do lists, which automatical
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }})
 
 ## Explanation
 
