@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cooljams
-thumbnail-path: "img/blocjams.png"
+thumbnail-path: ""
 short-description: CoolJams is a site to browse albums and listen to songs.
 
 ---
