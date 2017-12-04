@@ -7,7 +7,7 @@ short-description: CoolJams is a site to browse albums and listen to songs.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }})
 
 ## Explanation
 
