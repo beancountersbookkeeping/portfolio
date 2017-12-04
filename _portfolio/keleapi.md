@@ -6,7 +6,7 @@ short-description: Kele-Api was cerated to access the student endpoints of Bloc.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }})
 
 ## Explanation
 
