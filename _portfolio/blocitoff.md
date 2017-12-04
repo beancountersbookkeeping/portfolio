@@ -11,7 +11,7 @@ short-description: Bloc-itoff is an app to create to do lists, which automatical
 
 ## Explanation
 
-Bloc-Itoff is an application where a user and sign in / out and create to do lists. Any item that is not checked off after 7 days is considered not important and automatically deleted.
+Bloc-Itoff is an application where a user can sign in / out and create to do lists. Any item that is not checked off after 7 days is considered not important and automatically deleted.
 
 ## Problem
 
