@@ -7,7 +7,7 @@ short-description: Bloc-Wiki is an application to have users collaborate on cont
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }})
 
 ## Explanation
 
