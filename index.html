@@ -8,7 +8,8 @@ layout: default
     <h2>My Work</h2>
     {% for project in site.portfolio limit:6 %}
     <div class="project">
-
+    <div class="project-thumb">
+        
       </div>
       <div class="project-description">
         <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
