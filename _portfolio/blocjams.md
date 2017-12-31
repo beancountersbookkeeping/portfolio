@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Cooljams
-thumbnail-path: ""
 short-description: CoolJams is a site to browse albums and listen to songs.
 
 ---
 
-{:.center}
-![]({{ site.baseurl }})
 
 ## Explanation
 
@@ -19,7 +16,7 @@ The site was set up to show mutliple different ablums; with the ability to click
 
 ## Solution
 
-A player bar was created to hold user interactions of the song. It has the ability to play / pause the song. It can move to the next song or play the previous song. A seek bar was also added to see where  in the song is playing and fast forward or rewind the song. This gives the user a great user experience.
+A player bar was created to hold user interactions of the song. It has the ability to play / pause the song. It can move to the next song or play the previous song. A seek bar was also added to see where in the song is playing and fast forward or rewind the song. This gives the user, a great user experience.
 
 ## Results
 
