@@ -15,7 +15,7 @@ Bloc-It is an application similar to Wikipedia where users can sign in and creat
 
 ## Problem
 
-There were multiple different problems / objectives to this project:
+There were multiple different problems to this project:
 - User must be able to sign up for an account
 - Users can create, read, update and delete wiki's
 - Users can have accounts at 3 membership levels
@@ -26,7 +26,7 @@ There were multiple different problems / objectives to this project:
 
 The first objective was to allow a user to sign into the application. The Devise gem was installed and set up for this use.
 
-A wiki model / controller / view was created.  After seeding the database using the gem Faker, rSpec testing was run to ensure that the application worked as expected. Then CRUD was applied, or the ability for a user to Create, Read, Update and Delete their wiki's.
+A wiki model/controller/view was created.  After seeding the database using the gem Faker, rSpec testing was run to ensure that the application worked as expected. Then CRUD was applied, or the ability for a user to Create, Read, Update and Delete their wiki's.
 
 Users were able to have different permissions in the application. Using the Pundit gem for authorization 3 roles were created. 1) Standard (free) - Standard users can create, update or delete their wiki's. 2) Premium  - Premium members have a paid subscription and can Members can create, update or delete their own wikis, as well as make them private. The upgrade was implemented using Stripe integrations. 3) Admin - Admin users can create, edit, and delete any wiki.
 
