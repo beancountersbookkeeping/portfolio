@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Bloc-Chat
-thumbnail-path: ""
 short-description: Bloc-Chat is a user messaging system.
 
 ---
-
-{:.center}
-![]({{ site.baseurl }})
 
 ## Explanation
 
@@ -15,7 +11,7 @@ Bloc-Chat is a a real time chat application that allows for different users, cha
 
 ## Problem
 
-There were multiple different problems / objectives to this project:
+There were multiple different problems to this project:
 - View a list of chat rooms
 - Create a new chat room
 - View messages in each chat room
