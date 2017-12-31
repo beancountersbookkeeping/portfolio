@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Kele-Api
-thumbnail-path: ""
 short-description: Kele-Api was cerated to access the student endpoints of Bloc.
 ---
-
-{:.center}
-![]({{ site.baseurl }})
 
 ## Explanation
 
@@ -14,7 +10,7 @@ Kele-Api is an Api created to access the student endpoints of the Bloc school.
 
 ## Problem
 
-There were multiple different problems / objectives to this project:
+There were multiple different problems to this project:
 - Initialize and authorize Kele with a Bloc username and password
 - Retrieve the current user as a JSON blob, mentor availability, roadmaps and checkpoints
 - Interact with messaging function of Bloc
@@ -22,11 +18,11 @@ There were multiple different problems / objectives to this project:
 
 ## Solution
 
-To start a RubyGem shell was created and httpart was installed. This allowed the Api to interface with HTTP requests. The first being, the Bloc sessions username and password to allow for sign in / out of the system.
+To start a RubyGem a shell was created and httpart was installed. This allowed the Api to interface with HTTP requests.
 
 Using authorization tokens against the Bloc Api information was able to be read between the Kele Api and Bloc Api. This was tested using the irb (interactive ruby shell).
 
-Using the functions created in the Kele lib; not only read the information from Bloc, but enter information into the Bloc system. This allowed for messages and checkpoint submissions to be saved in the Bloc school database.
+Using the functions created in the Kele lib, not only read the information from Bloc, but enter information into the Bloc system. This allowed for messages and checkpoint submissions to be saved in the Bloc school database.
 
 
 ## Results
